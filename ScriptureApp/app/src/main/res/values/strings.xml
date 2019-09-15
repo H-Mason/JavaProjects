@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScriptureApp</string>
+    <string name="add_book">Book Name</string>
+    <string name="button_submit">Submit</string>
+    <string name="chapter">Chapter</string>
+    <string name="verse">Verse</string>
+    <string name="enter_your_favorite_scripture">Enter your Favorite Scripture</string>
+    <string name="your_scripture">Your Scripture</string>
+    <string name="save_scripture">Save Scripture</string>
+    <string name="load_scripture">Load Scripture</string>
+</resources>
