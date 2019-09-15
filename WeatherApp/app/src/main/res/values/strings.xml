@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="current_temperature">Current Temperature</string>
+    <string name="forecast">Forecast</string>
+    <string name="temperature">Temperature</string>
+    <string name="weatherchecker">WeatherChecker</string>
+    <string name="city">City</string>
+
+</resources>
